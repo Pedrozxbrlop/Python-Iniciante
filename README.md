@@ -1,2 +1,9 @@
-# Python-Iniciante
-Diversos conteúdos, aulas, mini sistemas ultilizando o Python Iniciante! Como: If, Else, Elif, F-String, Variaveis, type, input, operações e etc...
+# Python Iniciante
+
+Este repositório contém meus primeiros programas em Python enquanto estou aprendendo programação.
+
+Conteúdo:
+- Uso de variáveis
+- Uso de print
+- Sistema de faixa etária
+- Exercícios de lógica
