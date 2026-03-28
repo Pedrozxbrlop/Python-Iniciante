@@ -1,5 +1,5 @@
 #O Input
-Nome = input("Qual seu nome? ") # O input aqui neste caso serve pra perguntar pra pessoa: Qual seu nome?
+Nome = input("Qual seu nome? ") #O input aqui neste caso serve pra perguntar pra pessoa: Qual seu nome?
 
 Idade = input("Qual a sua idade? ") # Aqui pra perguntar a idade da pessoa.
 
