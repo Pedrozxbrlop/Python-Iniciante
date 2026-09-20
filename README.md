@@ -2,6 +2,8 @@
 
 Este repositório contém meus primeiros programas em Python enquanto estou aprendendo programação. Isto apenas para treinar a temida <em>lógica de programação!</em>
 
+<hr>
+
 Conteúdo:
 - Uso de variaveis
 - Uso de print
